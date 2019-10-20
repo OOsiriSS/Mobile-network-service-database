@@ -1,0 +1,1 @@
+The mobile network service database of a certain operator (Java, MySQL).
